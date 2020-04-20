@@ -6,9 +6,9 @@ baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "https://senspond20.github.io/gitblog/"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    BlackrockDigital
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    senspond20
+facebook_username:  
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
